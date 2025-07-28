@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 Hey there, I'm Jb3anz
 
-<!--
-**Jb3anz/Jb3anz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I explore systems, write code that talks to hardware, and build tools that solve real-world problems. My interests span IoT, computer engineering, and low-level programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+* 🧠 **Currently focused on:**
+
+  * Building embedded & IoT projects
+  * Writing efficient Python and C++ apps
+  * Exploring system internals and automation tools
+
+* 🌱 **Learning:**
+
+  * Advanced embedded systems
+  * Rust for systems programming
+  * Linux kernel basics
+
+---
+
+### 🛠️ Languages & Tools
+
+`Python` | `C++` | `Bash` | `HTML/CSS` | `ESP32 / Arduino`
+`Ghidra` | `Wireshark` | `Linux` | `KiCad` | `PlatformIO`
+
+---
+
+### 🤝 Open to Collaboration
+
+* 🧩 Interested in working with others on:
+
+  * IoT projects
+  * Automation tools
+  * Hardware/software integration
+  * Educational or open-source tools
+
+* 💬 Topics I enjoy talking about:
+
+  * Computer engineering concepts
+  * Embedded development
+  * Smart devices and real-time systems
+
+---
+
+### ⚡ Quick Fact
+
+> I enjoy understanding how things work—both in code and in circuits.
+
+---
