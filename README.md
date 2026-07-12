@@ -36,5 +36,3 @@ I'm a Computer Engineering student who enjoys learning how systems work and buil
 * Embedded Systems
 * Mechanical Design
 * Automation
-
-I'm always working on improving my skills by building projects, experimenting with new technologies, and learning from documentation and hands-on practice.
